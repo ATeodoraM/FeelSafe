@@ -1,0 +1,32 @@
+* {
+  font-family: "Trirong", serif;
+}
+
+html {
+  background: #dae2da;
+}
+
+.color-primary {
+  color: #466f46;
+}
+
+.bg-primary {
+  background: #466f46;
+}
+
+
+.centered {
+  display: flex;
+  justify-content: center;
+}
+
+
+.header{
+  padding: 10px;
+  background-color: #466f46;
+  color: #d3dcd5;
+  font-weight: 600;
+  box-shadow: 1px 5px 13px 6px rgba(186,175,186,0.7);
+}
+
+
